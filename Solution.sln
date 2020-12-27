@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YS.Auth.Api", "spike\YS.Aut
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YS.Auth.ConsoleApp", "spike\YS.Auth.ConsoleApp\YS.Auth.ConsoleApp.csproj", "{08809530-8A46-4568-8F5B-8BFE140176B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YS.Auth.MvcClient2", "spike\YS.Auth.MvcClient2\YS.Auth.MvcClient2.csproj", "{2687C4FA-5DD9-4CEF-91BC-92B65B282BFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{08809530-8A46-4568-8F5B-8BFE140176B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08809530-8A46-4568-8F5B-8BFE140176B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08809530-8A46-4568-8F5B-8BFE140176B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2687C4FA-5DD9-4CEF-91BC-92B65B282BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2687C4FA-5DD9-4CEF-91BC-92B65B282BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2687C4FA-5DD9-4CEF-91BC-92B65B282BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2687C4FA-5DD9-4CEF-91BC-92B65B282BFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,6 +61,7 @@ Global
 		{A9F4F7AF-8B40-484D-8589-C3ACE6C4890D} = {696CF104-5350-43FF-96E9-A9FC234EB075}
 		{4A9BA6FF-0571-414E-9E07-8E7652F8217E} = {696CF104-5350-43FF-96E9-A9FC234EB075}
 		{08809530-8A46-4568-8F5B-8BFE140176B7} = {696CF104-5350-43FF-96E9-A9FC234EB075}
+		{2687C4FA-5DD9-4CEF-91BC-92B65B282BFB} = {696CF104-5350-43FF-96E9-A9FC234EB075}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DB11BB21-3F5D-42D6-8737-F19C0666F1F8}
