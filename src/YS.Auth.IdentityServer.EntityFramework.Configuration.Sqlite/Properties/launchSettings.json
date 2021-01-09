@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "YS.Auth.IdentityServer.EntityFramework.Configuration.Sqlite": {
+      "commandName": "Executable"
+    }
+  }
+}
