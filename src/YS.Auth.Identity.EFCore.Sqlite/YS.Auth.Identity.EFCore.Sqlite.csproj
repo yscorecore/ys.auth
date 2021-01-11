@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  
+    <ItemGroup>
+        <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.0" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.0">
+            <!--<PrivateAssets>all</PrivateAssets>
+            <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>-->
+        </PackageReference>
+        <PackageReference Include="YS.Knife.EntityframeworkCore.Sqlite" Version="2.0.2" />
+    </ItemGroup>
+
+  
+    <ItemGroup>
+      <ProjectReference Include="..\YS.Auth.Identity.EFCore\YS.Auth.Identity.EFCore.csproj" />
+    </ItemGroup>
+</Project>
